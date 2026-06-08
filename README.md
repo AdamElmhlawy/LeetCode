@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AdamElmhlawy/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/AdamElmhlawy/LeetCode/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdamElmhlawy/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2350-find-closest-number-to-zero](https://github.com/AdamElmhlawy/LeetCode/tree/master/2350-find-closest-number-to-zero) |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AdamElmhlawy/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/AdamElmhlawy/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0392-is-subsequence](https://github.com/AdamElmhlawy/LeetCode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/AdamElmhlawy/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
@@ -38,4 +40,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AdamElmhlawy/LeetCode/tree/master/0013-roman-to-integer) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AdamElmhlawy/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
