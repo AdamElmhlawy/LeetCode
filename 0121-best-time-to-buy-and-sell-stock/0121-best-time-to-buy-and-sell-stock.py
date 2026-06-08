@@ -8,8 +8,8 @@ class Solution(object):
         sell = 1
         profit = 0
 
-        for price in prices:
-            if sell < len(prices) and prices[sell] > prices[buy]:
+        while sell < len(prices):
+            if prices[sell] > prices[buy]:
                 profit = max(prices[sell] - prices[buy], profit)
             else:
                 buy = sell
