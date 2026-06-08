@@ -5,28 +5,28 @@ class Solution(object):
         :rtype: List[str]
         """
         ranges = []
-        if nums:
-            low = nums[0]
-            high = nums[0]
-        else:
+        if not nums:
             return ranges
-        for i in range(len(nums)):
-            if i < len(nums) - 1:
-                if nums[i] + 1 == nums[i + 1]:
-                    high = nums[i + 1]
+
+        low = nums[0]
+        high = nums[0]
+
+        for i in range(1, len(nums)):
+            if nums[i] == nums[i - 1] + 1:
+                high = nums[i]
+            else:
+                if low == high:
+                    ranges.append("{}".format(low))
                 else:
-                    if low == high:
-                        ranges.append("{}".format(low))
-                        low = nums[i + 1]
-                        high = nums[i + 1]
-                    else:
-                        ranges.append("{}->{}".format(low, high))
-                        low = nums[i + 1]
-                        high = nums[i + 1]
+                    ranges.append("{}->{}".format(low, high))
+
+                low = nums[i]
+                high = nums[i]
             
         if low == high:
             ranges.append("{}".format(low))
         else:
             ranges.append("{}->{}".format(low, high))
+
         return ranges
         
