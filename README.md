@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AdamElmhlawy/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/AdamElmhlawy/LeetCode/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/AdamElmhlawy/LeetCode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdamElmhlawy/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0228-summary-ranges](https://github.com/AdamElmhlawy/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/AdamElmhlawy/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -50,4 +51,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AdamElmhlawy/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/AdamElmhlawy/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
