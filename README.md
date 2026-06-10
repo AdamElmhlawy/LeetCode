@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/AdamElmhlawy/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AdamElmhlawy/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/AdamElmhlawy/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/AdamElmhlawy/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/AdamElmhlawy/LeetCode/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/AdamElmhlawy/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/AdamElmhlawy/LeetCode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/AdamElmhlawy/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AdamElmhlawy/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/AdamElmhlawy/LeetCode/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/AdamElmhlawy/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Trie
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0056-merge-intervals](https://github.com/AdamElmhlawy/LeetCode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/AdamElmhlawy/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AdamElmhlawy/LeetCode/tree/master/0242-valid-anagram) |
 ## Simulation
 |  |
 | ------- |
