@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/AdamElmhlawy/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/AdamElmhlawy/LeetCode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdamElmhlawy/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/AdamElmhlawy/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AdamElmhlawy/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/AdamElmhlawy/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/AdamElmhlawy/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/AdamElmhlawy/LeetCode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/AdamElmhlawy/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AdamElmhlawy/LeetCode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/AdamElmhlawy/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AdamElmhlawy/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AdamElmhlawy/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/AdamElmhlawy/LeetCode/tree/master/0383-ransom-note) |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/AdamElmhlawy/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AdamElmhlawy/LeetCode/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/AdamElmhlawy/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AdamElmhlawy/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AdamElmhlawy/LeetCode/tree/master/0242-valid-anagram) |
 ## Simulation
@@ -85,6 +88,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AdamElmhlawy/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/AdamElmhlawy/LeetCode/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/AdamElmhlawy/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AdamElmhlawy/LeetCode/tree/master/0169-majority-element) |
+## BoyerâMoore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AdamElmhlawy/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
