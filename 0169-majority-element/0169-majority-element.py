@@ -7,15 +7,16 @@ class Solution(object):
         :rtype: int
         """
 
-        n = len(nums)
-        counter = defaultdict(int)
+        candidate = None
+        count = 0
 
         for num in nums:
-            counter[num] += 1
+            if count == 0:
+                candidate = num
+            
+            count += 1 if candidate == num else -1
         
-        for num in nums:
-            if counter[num] > n / 2:
-                return num
+        return candidate
 
 
         
