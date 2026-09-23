@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/AdamElmhlawy/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/AdamElmhlawy/LeetCode/tree/master/0392-is-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdamElmhlawy/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/AdamElmhlawy/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/AdamElmhlawy/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/AdamElmhlawy/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/AdamElmhlawy/LeetCode/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/AdamElmhlawy/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/AdamElmhlawy/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/AdamElmhlawy/LeetCode/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/AdamElmhlawy/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -98,11 +100,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AdamElmhlawy/LeetCode/tree/master/0169-majority-element) |
-## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AdamElmhlawy/LeetCode/tree/master/0169-majority-element) |
-## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
+## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AdamElmhlawy/LeetCode/tree/master/0169-majority-element) |
