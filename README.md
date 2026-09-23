@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/AdamElmhlawy/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdamElmhlawy/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/AdamElmhlawy/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/AdamElmhlawy/LeetCode/tree/master/0392-is-subsequence) |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/AdamElmhlawy/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AdamElmhlawy/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/AdamElmhlawy/LeetCode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/AdamElmhlawy/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AdamElmhlawy/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AdamElmhlawy/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/AdamElmhlawy/LeetCode/tree/master/0383-ransom-note) |
@@ -102,11 +104,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AdamElmhlawy/LeetCode/tree/master/0169-majority-element) |
-## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AdamElmhlawy/LeetCode/tree/master/0169-majority-element) |
-## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AdamElmhlawy/LeetCode/tree/master/0169-majority-element) |
