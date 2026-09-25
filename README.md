@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/AdamElmhlawy/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/AdamElmhlawy/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/AdamElmhlawy/LeetCode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/AdamElmhlawy/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/AdamElmhlawy/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AdamElmhlawy/LeetCode/tree/master/0049-group-anagrams) |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AdamElmhlawy/LeetCode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/AdamElmhlawy/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdamElmhlawy/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/AdamElmhlawy/LeetCode/tree/master/0344-reverse-string) |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AdamElmhlawy/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/AdamElmhlawy/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AdamElmhlawy/LeetCode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/AdamElmhlawy/LeetCode/tree/master/0169-majority-element) |
@@ -104,11 +107,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AdamElmhlawy/LeetCode/tree/master/0169-majority-element) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AdamElmhlawy/LeetCode/tree/master/0169-majority-element) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AdamElmhlawy/LeetCode/tree/master/0169-majority-element) |
