@@ -5,20 +5,29 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         output = []
-        chosen = set()
         nums.sort()
 
         for i in range(len(nums)):
-            target = -nums[i]
-            visited = {}
-            for j in range(i + 1, len(nums)):
-                k = target - nums[j]
+            l, r = i+1, len(nums) - 1
+            if i > 0 and nums[i] == nums[i - 1]:
+                continue
 
-                if k in visited:
-                    if (nums[i], nums[visited[k]], nums[j]) not in chosen:
-                        output.append([nums[i], nums[visited[k]], nums[j]])
-                        chosen.add(((nums[i], nums[visited[k]], nums[j])))
+            while l < r:
+                if nums[i] + nums[l] + nums[r] == 0:
+                    output.append([nums[i], nums[l], nums[r]])
+                    while l < r:
+                        if nums[l] == nums[l + 1] and nums[r] == nums[r - 1]:
+                            l +=1
+                            r -= 1
+                        else:
+                            break
+                    l += 1
+                    r -= 1
+
+
+                elif nums[i] + nums[l] + nums[r] > 0:
+                    r -= 1
                 else:
-                    visited[nums[j]] = j
-        
+                    l += 1
+
         return output
