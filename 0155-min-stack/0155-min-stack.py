@@ -16,12 +16,9 @@ class MinStack:
 
     def pop(self) -> None:
         if self.stack:
-            if self.top() == self.min:
-                self.stack.pop()
-                if self.stack:
-                    self.min = min(self.stack)
-            else:
-                self.stack.pop()
+            self.stack.pop()
+            if self.stack:
+                self.min = min(self.stack)
 
     def top(self) -> int:
         if self.stack:
