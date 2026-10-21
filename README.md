@@ -40,9 +40,14 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/AdamElmhlawy/LeetCode/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/AdamElmhlawy/LeetCode/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/AdamElmhlawy/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/AdamElmhlawy/LeetCode/tree/master/0792-binary-search) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AdamElmhlawy/LeetCode/tree/master/0278-first-bad-version) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/AdamElmhlawy/LeetCode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
