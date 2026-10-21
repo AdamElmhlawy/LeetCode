@@ -30,4 +30,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AdamElmhlawy/LeetCode/tree/master/0141-linked-list-cycle) |
+## Array
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/AdamElmhlawy/LeetCode/tree/master/0792-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/AdamElmhlawy/LeetCode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
