@@ -34,11 +34,13 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AdamElmhlawy/LeetCode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/AdamElmhlawy/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/AdamElmhlawy/LeetCode/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AdamElmhlawy/LeetCode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/AdamElmhlawy/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0278-first-bad-version](https://github.com/AdamElmhlawy/LeetCode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/AdamElmhlawy/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/AdamElmhlawy/LeetCode/tree/master/0792-binary-search) |
@@ -50,4 +52,8 @@
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/AdamElmhlawy/LeetCode/tree/master/0367-valid-perfect-square) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/AdamElmhlawy/LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
