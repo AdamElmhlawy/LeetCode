@@ -35,6 +35,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AdamElmhlawy/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AdamElmhlawy/LeetCode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/AdamElmhlawy/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/AdamElmhlawy/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdamElmhlawy/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/AdamElmhlawy/LeetCode/tree/master/0792-binary-search) |
@@ -57,9 +58,11 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AdamElmhlawy/LeetCode/tree/master/0048-rotate-image) |
 | [0367-valid-perfect-square](https://github.com/AdamElmhlawy/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AdamElmhlawy/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/AdamElmhlawy/LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->

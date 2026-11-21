@@ -1,12 +1,15 @@
-import copy
-class Solution(object):
-    def rotate(self, matrix):
+class Solution:
+    def rotate(self, matrix: list[list[int]]) -> None:
         """
-        :type matrix: List[List[int]]
-        :rtype: None Do not return anything, modify matrix in-place instead.
+        Do not return anything, modify matrix in-place instead.
         """
-        matrix1 = copy.deepcopy(matrix)
-        for i in range (len(matrix)):
-            for j in range (len(matrix[i])):
-                matrix1[i][j] = matrix[len(matrix) - (j + 1)][i]
-        matrix[:] = matrix1
+        n = len(matrix)
+        
+        for i in range(n):
+            for j in range(i+1, n):
+                matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]
+        
+        for i in range(n):
+            for j in range(n // 2):
+                matrix[i][j], matrix[i][n-j-1] = matrix[i][n-j-1], matrix[i][j]
+
