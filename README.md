@@ -18,6 +18,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AdamElmhlawy/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/AdamElmhlawy/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/AdamElmhlawy/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
@@ -37,6 +38,7 @@
 | [0035-search-insert-position](https://github.com/AdamElmhlawy/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/AdamElmhlawy/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/AdamElmhlawy/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/AdamElmhlawy/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdamElmhlawy/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/AdamElmhlawy/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/AdamElmhlawy/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -65,4 +67,8 @@
 | ------- |
 | [0048-rotate-image](https://github.com/AdamElmhlawy/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/AdamElmhlawy/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AdamElmhlawy/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
